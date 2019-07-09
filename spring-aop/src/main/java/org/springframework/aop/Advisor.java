@@ -57,4 +57,5 @@ public interface Advisor {
 	 */
 	boolean isPerInstance();
 
+
 }
